@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 26,
+    "editor.cursorStyle": "line",
+    "editor.fastScrollSensitivity": 10,
+    "editor.hover.hidingDelay": 500,
+    "editor.inlayHints.padding": true
+}
